@@ -9,5 +9,5 @@ package com.mycompany.crudproductos;
  * @author PC-05
  */
 public class Jhoell {
-    
+    int ID;
 }
